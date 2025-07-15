@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 
-        String dia = "Sabadop";
+        String dia = "Sabado";
 
         String tipoDeDia = switch (dia) {
             case "Seg", "Ter", "Quar", "Quin", "Sext" -> "Dia util";
