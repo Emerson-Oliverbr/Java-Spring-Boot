@@ -1,4 +1,4 @@
-package empresa.dados;
+package code85.dados;
 
 public class Funcionario {
     String nome;
